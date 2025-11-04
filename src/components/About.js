@@ -9,7 +9,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text" data-aos="fade-right">
             <p>
-              Saya adalah seorang pelajar yang sangat tertarik dengan dunia  pemrograman dan teknologi 
+              Saya adalah seorang pelajar yang sangat tertarik dengan dunia  pemrograman dan teknologi. 
               Saat ini saya sedang belajar mengembangkan website dan aplikasi menggunakan React.js. 
             </p>
             <p>
