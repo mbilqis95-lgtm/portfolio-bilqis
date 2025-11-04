@@ -297,3 +297,12 @@
   transform: translateY(-10px);
   box-shadow: 0 15px 30px rgba(0,0,0,0.15);
 }
+
+.project-single-card {
+    transition: all 0.3s ease !important;
+}
+
+.project-single-card:hover {
+    transform: translateY(-10px) !important;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2) !important;
+}
